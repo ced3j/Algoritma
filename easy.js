@@ -13,4 +13,12 @@ import { firstFactorial } from "./easy/3_firstFactorial.js";
 
 
 import { firstReverse } from "./easy/4_firstReverse.js";
-console.log(firstReverse("merhaba"));
+// console.log(firstReverse("merhaba"));
+
+
+import { findIntersection } from "./easy/5_findIntersection.js";
+// console.log(findIntersection(["1, 3, 4, 7, 13", "1, 2, 4, 13, 15"]));
+
+
+import { questionMark } from "./easy/6_questionMark.js";
+console.log(questionMark("acc?7??sss?3rr1??????5"));
