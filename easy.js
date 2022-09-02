@@ -25,4 +25,15 @@ import { questionMark } from "./easy/6_questionMark.js";
 
 
 import { letterChange } from "./easy/7_letterChange.js";
-console.log(letterChange("Deneme"));
+//console.log(letterChange("Deneme"));
+
+
+import { simpleAdding } from "./easy/8_simpleAdding.js";
+//console.log(simpleAdding(10));
+
+
+import { letterCapitalize } from "./easy/9_letterCapitalize.js";
+//console.log(letterCapitalize("Bu örnek bir cümledir"));
+
+import { simpleSymbols } from "./easy/10_simpleSymbols.js";
+console.log(simpleSymbols("++d+===+c++==a"));
