@@ -13,7 +13,7 @@ import { firstFactorial } from "./easy/3_firstFactorial.js";
 
 
 import { firstReverse } from "./easy/4_firstReverse.js";
-// console.log(firstReverse("merhaba"));
+// console.log(firstReverse("merhaba dostum"));
 
 
 import { findIntersection } from "./easy/5_findIntersection.js";
@@ -25,15 +25,24 @@ import { questionMark } from "./easy/6_questionMark.js";
 
 
 import { letterChange } from "./easy/7_letterChange.js";
-//console.log(letterChange("Deneme"));
+// console.log(letterChange("Deneme"));
 
 
 import { simpleAdding } from "./easy/8_simpleAdding.js";
-//console.log(simpleAdding(10));
+// console.log(simpleAdding(10));
 
 
 import { letterCapitalize } from "./easy/9_letterCapitalize.js";
-//console.log(letterCapitalize("Bu örnek bir cümledir"));
+// console.log(letterCapitalize("Bu örnek bir cümledir"));
 
 import { simpleSymbols } from "./easy/10_simpleSymbols.js";
-console.log(simpleSymbols("++d+===+c++==a"));
+// console.log(simpleSymbols("++d+===+c++==a"));
+
+import { timeConvert } from "./easy/11_timeConvert.js";
+// console.log(timeConvert(63));
+
+import { alphabetSoup } from "./easy/12_alphabetSoup.js";
+// console.log(alphabetSoup("hello  943504 4350 #}#} world !!"));
+
+import { abCheck } from "./easy/13_abCheck.js";
+// console.log(abCheck("lane borrowed"));
