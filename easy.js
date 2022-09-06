@@ -46,3 +46,10 @@ import { alphabetSoup } from "./easy/12_alphabetSoup.js";
 
 import { abCheck } from "./easy/13_abCheck.js";
 // console.log(abCheck("lane borrowed"));
+
+
+import { exOh } from "./easy/14_exOh.js";
+// console.log(exOh("xoxoxxo"));
+
+import { wordCount } from "./easy/15_wordCount.js";
+console.log(wordCount("         Never             eat shredded wheat "));
