@@ -52,4 +52,10 @@ import { exOh } from "./easy/14_exOh.js";
 // console.log(exOh("xoxoxxo"));
 
 import { wordCount } from "./easy/15_wordCount.js";
-console.log(wordCount("         Never             eat shredded wheat "));
+// console.log(wordCount("         Never             eat shredded wheat "));
+
+import { vowelCount } from "./easy/16_vowelCount.js";
+// console.log(vowelCount("All cows eat grass"));
+
+import { isPalindrome } from "./easy/17_isPalindrome.js";
+//console.log(isPalindrome("racecar"));
