@@ -59,3 +59,8 @@ import { vowelCount } from "./easy/16_vowelCount.js";
 
 import { isPalindrome } from "./easy/17_isPalindrome.js";
 //console.log(isPalindrome("racecar"));
+
+
+import { arithGeo } from "./easy/18_arithGeo.js";
+console.log(arithGeo([2, 6, 18, 54]));
+// console.log(arithGeo([2, 4, 6, 8]));
