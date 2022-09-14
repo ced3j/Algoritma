@@ -54,4 +54,7 @@ import { arithGeo } from "./easy/18_arithGeo.js";
 // console.log(arithGeo([2, 4, 6, 8]));
 
 import { arrayAddition } from "./easy/19_arrayAddition.js";
-console.log(arrayAddition([2, 3, 4, 5, 14]));
+// console.log(arrayAddition([2, 3, 4, 5, 14]));
+
+import { letterCount } from "./easy/20_letterCount.js";
+console.log(letterCount("Today, is the greatest day ever!"));
