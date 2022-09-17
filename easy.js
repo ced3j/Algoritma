@@ -60,4 +60,10 @@ import { letterCount } from "./easy/20_letterCount.js";
 // console.log(letterCount("Today, is the greatest day ever!"));
 
 import { secondGreatLow } from "./easy/21_secondGreatLow.js";
-console.log(secondGreatLow([7,7,106,98,12]));
+// console.log(secondGreatLow([7,7,106,98,12]));
+
+import { divisionStringified } from "./easy/22_divisionStringified.js";
+// console.log(divisionStringified(123456789,10000));
+
+import { countMinutes } from "./easy/23_countMinutes.js";
+// console.log(countMinutes("9:00am-10:00am"));
