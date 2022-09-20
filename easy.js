@@ -67,3 +67,7 @@ import { divisionStringified } from "./easy/22_divisionStringified.js";
 
 import { countMinutes } from "./easy/23_countMinutes.js";
 // console.log(countMinutes("9:00am-10:00am"));
+
+
+import { meanMode } from "./easy/24_meanMode.js";
+console.log(meanMode([5,3,3,3,3,3,1]));
