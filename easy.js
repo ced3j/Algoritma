@@ -70,4 +70,10 @@ import { countMinutes } from "./easy/23_countMinutes.js";
 
 
 import { meanMode } from "./easy/24_meanMode.js";
-console.log(meanMode([5,3,3,3,3,3,1]));
+// console.log(meanMode([5,3,3,3,3,3,1]));
+
+// import { dashInsert } from "./easy/25_dashInsert.js";
+// console.log(dashInsert("454793"));
+
+import { swapCase } from "./easy/26_swapCase.js";
+console.log(swapCase("Hello World"));
